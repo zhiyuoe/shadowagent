@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Design process
-nav_order: 3
+nav_order: 4
 ---
 
 # Design process
@@ -10,3 +10,8 @@ nav_order: 3
 
 1. TOC
 {:toc}
+
+## Ideation
+## Tech exploration
+## Finding
+## Design direction

@@ -11,16 +11,13 @@ nav_order: 2
 1. TOC
 {:toc}
 
-## Definition
-### Reinforcement learning
-#### Unpredictablity
-### Delightful experience
-#### Human learning theory
-#### Competetion vs. observation
-### Belivable NPC
-#### Behavior models
+## Background
 
-## Solutions
+## Challenge and opportunities
+
+## Goal
+
+## Product definition
 ### Simulation 
 ### Sandbox
 ### Player control
