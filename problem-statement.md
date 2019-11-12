@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Problem statement
-nav_order: 3
-has_children: true
+nav_order: 2
+parent: Home
 permalink: /problem-statement
 ---
+
 
 # Problem statement
 
