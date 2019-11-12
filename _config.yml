@@ -1,3 +1,27 @@
-title: "Remote theme example"
+title: [Game Name] Design Documentation
+description: A sandbox simulation game
+
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "nil"
+permalink: pretty
+
+search_enabled: true
+search_tokenizer_separator: /[\s/]+/
+heading_anchors: true
+
+aux_links:
+  "Project website":
+    - "//www.etc.cmu.edu/projects/shadow-agent/#blog"
+
+footer_content: "Copyright &copy; 2019 Shadow Agent. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
+
+plugins:
+  - jekyll-seo-tag
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
