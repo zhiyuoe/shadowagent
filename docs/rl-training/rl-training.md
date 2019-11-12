@@ -1,3 +1,4 @@
+---
 layout: default
 title: RL training
 nav_order: 6
