@@ -2,8 +2,7 @@
 layout: default
 title: Emotional arc
 nav_order: 4
-has_children: true
-permalink: docs/related-works
+parent: Related works
 ---
 
 # Emotional arc
