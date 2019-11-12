@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UI Components
+title: Problem statement
 nav_order: 3
 has_children: true
 permalink: /problem-statement
