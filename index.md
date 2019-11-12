@@ -18,6 +18,47 @@ Project Shadow Agent is an experimental project exploring new gameplay interacti
 ## About us
 We are a team from [Entertainment Technology Center](http://www.etc.cmu.edu/), Carnegie Mellon, working with designers and machine learning engineers from [Google Stadia](https://github.com/pmarsceill/just-the-docs#contributing).
 
+# Design process
+
+# Research insights
+## Inspirations
+### Natural group theories
+### 
+## Explorations
+
+# Game design
+## Story
+## Mechanics
+## Dynamic relationships
+## Complexity of behaviors
+## Environment
+## Interaction
+---
+title: test
+parent: home
+---
+
+# RL training
+## Pipeline
+## Curricula
+## Parameters
+
+# Art execution
+## theming
+## modeling
+## lighting
+
+# Experiments
+
+# Results
+## Rewards change
+## Brain change
+## Environment change
+## Player intervention
+
+# Discussion
+## Unpredictability
+
 ## Contributors
 
 <ul class="list-style-none">
