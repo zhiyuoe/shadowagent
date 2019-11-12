@@ -2,12 +2,14 @@
 layout: default
 title: Problem statement
 nav_order: 2
-parent: Home
-permalink: /problem-statement
 ---
 
 
 # Problem statement
+{: .no_toc }
+
+1. TOC
+{:toc}
 
 ## Definition
 ### Reinforcement learning
