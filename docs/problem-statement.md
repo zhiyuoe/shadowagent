@@ -8,14 +8,31 @@ nav_order: 2
 # Problem statement
 {: .no_toc }
 
+
+Defining the problem scope that we would like to solve. 
+{: .fs-6 .fw-300 }
+
+
 1. TOC
 {:toc}
 
+---
+
 ## Background
 
-## Challenge and opportunities
+---
+
+## Challenge
+
+---
+
+## Opportunities
+
+---
 
 ## Goal
+
+---
 
 ## Product definition
 ### Simulation 
