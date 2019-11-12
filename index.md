@@ -34,6 +34,10 @@ Reinforcement learning (RL) is a relatively new machine learning method which le
 ## Complexity of behaviors
 ## Environment
 ## Interaction
+---
+title: test
+parent: home
+---
 
 # RL training
 ## Pipeline
