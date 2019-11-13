@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Discussion
-nav_order: 10
+nav_order: 9
+has_children: true
+permalink: docs/resources
 ---
 
 
@@ -10,22 +12,3 @@ nav_order: 10
 
 If you would like to learn a bit more
 {: .fs-6 .fw-300 }
-
-
-1. TOC
-{:toc}
-
----
-
-## Design with machine learning
-
----
-
-## Deigner's toolkit
-
----
-
-## Future work
-
-### Playtest
-### Measurement
