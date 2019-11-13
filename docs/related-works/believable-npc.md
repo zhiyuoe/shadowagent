@@ -10,7 +10,6 @@ parent: Related works
 
 
 In game, NPCs have been widely applied to facilitate player's experience.
-
 {: .fs-6 .fw-300 }
 
 1. TOC

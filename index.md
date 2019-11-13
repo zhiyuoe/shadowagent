@@ -7,10 +7,10 @@ permalink: /
 ---
 
 
-# Exploring reinforcement learning agents in game experience
+# Hippo Srping Design Documentation
 {: .fs-9 }
 
-Project Shadow Agent is an experimental project exploring new gameplay interactions using reinforcement learning. By working with Google Stadia, the team seeks new game genres and different potential applications. 
+Exploring reinforcement learning agents in game experience
 {: .fs-6 .fw-300 }
 
 ---

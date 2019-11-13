@@ -7,3 +7,7 @@ permalink: docs/rl-training
 ---
 
 # RL training
+{: .no_toc }
+
+How we train the agents through iterations
+{: .fs-6 .fw-300 }

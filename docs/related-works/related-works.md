@@ -12,23 +12,3 @@ permalink: docs/related-works
 
 Where our inspirations came from
 {: .fs-6 .fw-300 }
-
-
-1. TOC
-{:toc}
-
----
-
-## Reinforcement learning
-
----
-
-## Group theories
-
----
-
-## Believable NPC
-
----
-
-## Emotional arc

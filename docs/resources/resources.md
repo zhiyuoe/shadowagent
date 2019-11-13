@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Discussion
-nav_order: 9
+nav_order: 10
 ---
 
 
-# Discussion
+# Resources
 {: .no_toc }
 
-Benchmarks of our iterative progress from pre-production to production.
+If you would like to learn a bit more
 {: .fs-6 .fw-300 }
 
 

@@ -7,3 +7,7 @@ permalink: /docs/art-execution
 ---
 
 # Art execution
+{: .no_toc }
+
+Crafting the aesthetic of the game
+{: .fs-6 .fw-300 }
