@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Demo
+title: Downloads
 nav_order: 2
 parent: Resources
 ---

@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-# Hippo Srping Design Documentation
+# Hippo Spring Design Documentation
 {: .fs-9 }
 
 Exploring reinforcement learning agents in game experience
