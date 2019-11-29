@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-# Hippo Spring Design Documentation
+# Baby Hippo Spring - Design Documentation
 {: .fs-9 }
 
 Exploring reinforcement learning agents in game experience
@@ -15,13 +15,26 @@ Exploring reinforcement learning agents in game experience
 
 ---
 
-### tl;dr
-In this documentation, you will learn how we cracked this challenge of reinforcement learning in games, where our inspirations came from, our design process, experiments, findings, and takeaways.
+### Introduction
+
+Baby Hippo Spring is an experimental game exploring the application of reinforcement learning (RL) in non-player characters (NPC). Challenged with the uncertainty and unpredictability of results from RL training, we aim make use of this essence of RL to build a delightful game experience for players.
+
+In this documentation, you will learn how we cracked the challenges of reinforcement learning in games, where our inspirations came from, our design process, experiments, findings, and lessons learned.
 
 ---
 
 ### About us
-We are a team from [Entertainment Technology Center](http://www.etc.cmu.edu/), Carnegie Mellon, working with designers and machine learning engineers from [Google Stadia](https://github.com/pmarsceill/just-the-docs#contributing).
+We are Team [Shadow Agent] (https://www.etc.cmu.edu/projects/shadow-agent/#blog), a multidisciplaniry team of 5 second-year graduate students from [Entertainment Technology Center] (https://www.etc.cmu.edu/), Carnegie Mellon University - Sillicon Valley Campus. Our client is [Erin Hoffman-John] (https://twitter.com/gryphoness?lang=en) and her team from [Google Stadia] (https://stadia.dev/). Our faculty advisors are [Carl Rosendahl](https://www.etc.cmu.edu/blog/author/carlrosendahl/) and [Melanie Lam] (https://www.etc.cmu.edu/blog/author/mjyee/). 
+
+[View Our Blog] (https://www.etc.cmu.edu/projects/shadow-agent/#blog)
+
+---
+
+### Downloads
+Mac
+Windows
+Google Play
+AppStore
 
 ---
 
