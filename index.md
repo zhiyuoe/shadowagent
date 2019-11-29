@@ -24,17 +24,20 @@ In this documentation, you will learn how we cracked the challenges of reinforce
 ---
 
 ### About us
-We are Team [Shadow Agent] (https://www.etc.cmu.edu/projects/shadow-agent/#blog), a multidisciplaniry team of 5 second-year graduate students from [Entertainment Technology Center] (https://www.etc.cmu.edu/), Carnegie Mellon University - Sillicon Valley Campus. Our client is [Erin Hoffman-John] (https://twitter.com/gryphoness?lang=en) and her team from [Google Stadia] (https://stadia.dev/). Our faculty advisors are [Carl Rosendahl](https://www.etc.cmu.edu/blog/author/carlrosendahl/) and [Melanie Lam] (https://www.etc.cmu.edu/blog/author/mjyee/). 
+We are Team [Shadow Agent](https://www.etc.cmu.edu/projects/shadow-agent/#blog), a multidisciplaniry team of 5 second-year graduate students from [Entertainment Technology Center](https://www.etc.cmu.edu/), Carnegie Mellon University - Sillicon Valley Campus. Our client is [Erin Hoffman-John](https://twitter.com/gryphoness?lang=en) and her team from [Google Stadia](https://stadia.dev/). Our faculty advisors are [Carl Rosendahl](https://www.etc.cmu.edu/blog/author/carlrosendahl/) and [Melanie Lam](https://www.etc.cmu.edu/blog/author/mjyee/). 
 
-[View Our Blog] (https://www.etc.cmu.edu/projects/shadow-agent/#blog)
+[View Our Blog](https://www.etc.cmu.edu/projects/shadow-agent/#blog)
 
 ---
 
 ### Downloads
-Mac
-Windows
-Google Play
-AppStore
+[Mac](#)
+
+[Windows](#)
+
+[Google Play](#)
+
+[AppStore](#)
 
 ---
 
