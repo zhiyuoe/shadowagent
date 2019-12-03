@@ -14,6 +14,7 @@ parent: RL training
 
 ## Introduction
 We used the [Unity ML Agents](https://github.com/Unity-Technologies/ml-agents) plugin to incorporate Reinforcement Learning into our project. This section will present the different components of the plugin, how we specifically used them in order to train our agents, as well as a basic overview of our training process.
+
 ---
 ## Terms
 
