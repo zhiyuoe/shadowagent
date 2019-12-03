@@ -18,11 +18,19 @@ Designing and developing games with reinforcement learning can be exciting and u
 
 ---
 
-## Design with machine learning
+## Game designer's toolkit
+
+From our implementation process, we found that 
+
+Therefore, rather than making assumptions about 
 
 ---
 
-## Deigner's toolkit
+## Coping with reinforcement learning - what can be controlled?
+
+---
+
+## Game designer's toolkit
 
 ---
 
