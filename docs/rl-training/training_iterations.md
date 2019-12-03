@@ -37,7 +37,6 @@ Hippo speed: 2
 ---
 
 ## Iteration 1: Abusive Hippos
----
 
 ### Reasoning
 We want to train the hippo to be able to actively seek for fish but also help save another hippo when it is bitten by the crocodile. This is the first iteration and the numbers are set in a more or less random manner.
@@ -70,8 +69,8 @@ Crocodile speed: 1.5
 At first, the crocodile was able to eat all hippos.
 However, towards the end of the training, the hippos learned to game the system. They would gather around the crocodile so they can keep saving each other and getting the big reward.
 
-## Iteration 2: Selfish Hippos
 ---
+## Iteration 2: Selfish Hippos
 
 ### Reasoning
 From previous training, though interesting, the hippos would game the system and not really behave in a more dynamic way. We suspect that was due to the really high reward associated with saving other hippos and the relatively small punishment for being bitten. 
@@ -111,8 +110,9 @@ Crocodile Freeze Time
 The hippo would run away from crocodile when approaching. It will seek food in safe areas(further from crocodile). At some point, they would hide in the corner of the island to hide from the crocodile. They will still try to go out for fish but seem pretty reluctant.
 The helping mechanism is rarely triggered.
 
-
+---
 ## Iteration 3: Extreme Rewards and Punishments
+
 ### Reasoning
 We want to maximize the punishment of being bitten and also the rewards of being saved at the same time to see whether it would be different from the first iteration.
 
