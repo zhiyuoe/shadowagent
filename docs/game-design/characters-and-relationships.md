@@ -8,7 +8,7 @@ parent: Game design
 # Characters and relationships
 {: .no_toc }
 
-Dynamic and muturally influenced by each other.
+The muturally influenced characters co-creates a dynamic environment.
 {: .fs-6 .fw-300 }
 
 
