@@ -20,7 +20,6 @@ Players experiment different strategies to help the hippo to eat fish while avoi
 ## Sandbox simulation
 Hippo Spring simulates the food chain relationships using Fish - Hippo - Crocodile in the water. It also simulates the resource management dilemma in the confilct bewteen individual goals and group rewards.
 
-
 ---
 
 ## Player intervention

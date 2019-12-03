@@ -9,7 +9,7 @@ parent: Game design
 # Interaction
 {: .no_toc }
 
-Through several iterations, we gradually experiments with the most effective and natural interactions between agents and agents, as well as agents and environment.
+Interaction is the core that makes this game playable and playful. The game contains three types of interactions - between agents, agents-environment, and player-environment system.
 {: .fs-6 .fw-300 }
 
 
@@ -17,3 +17,11 @@ Through several iterations, we gradually experiments with the most effective and
 {:toc}
 
 ---
+
+## Interaction between agents
+
+## Agent-environment
+
+## Player-system
+gradually experiments with the most effective and natural 
+
