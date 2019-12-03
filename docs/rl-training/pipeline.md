@@ -12,6 +12,7 @@ parent: RL training
 1. TOC
 {:toc}
 
+---
 ## Introduction
 We used the [Unity ML Agents](https://github.com/Unity-Technologies/ml-agents) plugin to incorporate Reinforcement Learning into our project. This section will present the different components of the plugin, how we specifically used them in order to train our agents, as well as a basic overview of our training process.
 
@@ -48,7 +49,7 @@ An academy orchestrates the agents and their decision making processes. It also 
 We would drag the agents’ brains(hippo learning brain and crocodile learning brain) into the academy and whenever we want to train a particular brain, we would tick the checkbox next to it. The academy also handles setting the curricula’s parameters. In our case, that would be the speed of the crocodile. 
 
 ### Brain
-A `brain` controls the actual decisions of the agent according to observations. Roughly, `Agent` sets the rules and the `brain` executes according to the rules and the received information in different situations.
+A `brain` controls the actual decisions of the agent according to observations. Roughly, `agent` sets the rules and the `brain` executes according to the rules and the received information in different situations.
 
 #### Player Brain
 A `player brain` helps developer to simulate the actions of an agent by mapping them to keyboard. It permits developers to test out the agent script: whether the rewards are triggered in the correct situation.
@@ -63,6 +64,7 @@ In our game, we define the curricula’s parameter is the speed of the crocodile
 ### Training parameters
 The `training parameters` are specific numbers used for training. They can greatly improve the training results or shorten the training time but at the cost of many trials and errors.
 
+---
 ## Training Process
 After defining all of the above terms. We would duplicate to around 8 training areas to speed up the process. We would make sure the check the brain we want to train in the academy. We would type in a few commands in the terminal to associate the curricula and training id we want to use. After making sure that communication is established, we finally click play in the editor to kick off the training.
 
