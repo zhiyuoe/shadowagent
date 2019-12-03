@@ -9,7 +9,7 @@ nav_order: 2
 {: .no_toc }
 
 
-Defining the problem scope that we would like to solve. 
+The goal of the project is to present a delightful user experience by creating believable characters in a game using existing machine learning tools to train different behaviors of Non-Player Characters (NPCs). The primary question we would like to explore is "How can trained RL agents create a delightful game experience for players".
 {: .fs-6 .fw-300 }
 
 
@@ -36,8 +36,6 @@ In short, the conflict between reinforcement learning and designing a delightful
 
 ---
 
-## Goal
+## Opportunites
 
-The goal of the project is to present a delightful user experience by creating believable characters in a game using existing machine learning tools to train different behaviors of Non-Player Characters (NPCs).
-
----
+### RL 
