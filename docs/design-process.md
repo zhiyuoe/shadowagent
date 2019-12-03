@@ -34,5 +34,15 @@ alt="tech demo" width="240" height="180" border="10" /></a>
 
 ---
 
+## Findings
+
+- RL as an environment is good for observing obvious changes effectively.
+- The competing relationship between RL agents and players gets easily fall into the Good-old-fashioned-AI's application. 
+
+---
+
 ## Design direction
 
+- A coop game where RL agent and the player influence each other with a purpose.
+- Starting from something small, and gradually build up complexity upon it.
+- Establish a triangular relationship to create a dynamic system.
