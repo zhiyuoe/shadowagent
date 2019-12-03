@@ -8,7 +8,8 @@ nav_order: 8
 # Discussion
 {: .no_toc }
 
-Benchmarks of our iterative progress from pre-production to production.
+Designing and developing games with reinforcement learning can be exciting and unpredictable. From our semester-long design process, we have learned a few lessons from our emerging design patterns. 
+
 {: .fs-6 .fw-300 }
 
 
