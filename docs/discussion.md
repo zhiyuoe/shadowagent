@@ -18,19 +18,27 @@ Designing and developing games with reinforcement learning can be exciting and u
 
 ---
 
-## Game designer's toolkit
 
-From our implementation process, we found that 
+
+## Coping with reinforcement learning
+
+From our implementation process, we found that RL has both  uncontrollable
 
 Therefore, rather than making assumptions about 
 
 ---
 
-## Coping with reinforcement learning - what can be controlled?
+##  Game designer's toolkit
 
----
+### Start with something simple and small
 
-## Game designer's toolkit
+### Don't fix the rules and game mechanics too early
+
+### Always prototype the ideas to see how it works
+
+### Making the unpredictable fun for players
+
+### Get comfortable about staying in the uncomfortable
 
 ---
 
