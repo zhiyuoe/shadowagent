@@ -5,7 +5,7 @@ nav_order: 7
 ---
 
 
-# Results
+# Playtest
 {: .no_toc }
 
 This section records the observations of playtesting and how we iterate based on the them.
