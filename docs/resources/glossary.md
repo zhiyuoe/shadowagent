@@ -17,3 +17,13 @@ A list of words we use when describing concepts in the context of reinforcement 
 {:toc}
 
 ---
+
+### Agent
+
+### Brain
+
+### Enivronment
+
+### Punishment
+
+### Reward
