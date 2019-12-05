@@ -5,7 +5,7 @@ nav_order: 3
 parent: Resources
 ---
 
-# Art execution
+# Art
 {: .no_toc }
 
 Crafting the aesthetic of the game
@@ -13,16 +13,46 @@ Crafting the aesthetic of the game
 
 ---
 
-## Theming
+## Models & Textures
+### Environment
+Landscape
+Water
 
 ---
 
-## Modeling
+### Character
+Hippo
+Crocodile
+Giraffe
 
 ---
 
-## Lighting
+### Reference
+Rocks
+Fish
+Google Emoji
 
 ---
 
-## HUD
+### Animations
+Hippo has 5 animation clips: Idle, Eat, Help, AskHelp, Happy
+Crocodile has 4 animation clips: Idle, Eat, Happy, Struggle
+
+---
+
+### VFX
+Water splash
+Crocodile dizzy
+
+
+---
+
+### Cutscenes
+Story Introduction
+Win Animation
+Lose Animation
+
+
+---
+
+### UI
