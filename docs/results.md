@@ -23,7 +23,7 @@ We conducted playtest session for each of the brain individually.
 When we playtest for the helpful hippos, we found out that each player could clearly identify the behaviors of the hippos. Once the game start, they saw the hippos began to gather around the crocodile and abuse it. No matter how many fishes are put inside the pool, most of the hippos will continuously swim around the crocodile. Hippos are afraid of being caught by the crocodile, so what they do is to help each other all the time to prevent any freezing moment of hippos being bitten by the crocodile. Even though players find this observation interesting, there is a limited amount of space for them to control and manipulate the situation.
 
 ### Selfish hippos
-When we only have selfish hippos inside the scene, players find hippos indifferent from each other. 
+When we only have selfish hippos inside the scene, players find hippos indifferent from each other. No matter how many fishes they put in or whether they put new hippos next to the bitten hippo, hippos just swim away from each other and keep looking for food. Even though sometimes hippos are very close to the bitten hippo, they do not help each other. Players could clearly observe this behavior but same as the helpful hippos, they find it hard to intervene.
 
 ### Balanced hippos
 ## Brain change
