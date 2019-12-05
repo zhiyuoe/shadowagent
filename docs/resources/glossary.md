@@ -18,12 +18,12 @@ A list of words we use when describing concepts in the context of reinforcement 
 
 ---
 
-### Agent
+Agent
 
-### Brain
+Brain
 
-### Enivronment
+Enivronment
 
-### Punishment
+Punishment
 
-### Reward
+Reward
