@@ -34,6 +34,15 @@ We then trained a balanced brain for the hippos. With this brain, sometimes hipp
 ## Brain change
 Based on the feedback we got above, we find it is not fun enough to just put one brain inside the game. It is necessary to combine three brains together to make the gameplay experience more enjoyable and dynamic. We believe the relationship between the number of fishes and the number of hippos obey the natural selection theory in reality. We implemented the brain switch logic based on the ratio of fishes and hippos. When there are too many fishes, hippos have sufficient food resources, so they prefer to help each other other than just eating fishes. When there are very few fishes, hippos are afraid of being starving, so they prefer to eat fishes first, rather than helping each other. When there are about the right amount of fishes, they are in a balanced status that they help each other as well as eating fishes. Once we implemented this feature and began playtesting, we found players have more fun during the gameplay. They can now control the ecosystem by putting fishes and hippos. They could observe the changes in the behaviors based on the ration between fishes and hippos. The changes keep the interesting curve all the time.
 
+
 ## Environment change
 ### Map Shape
+We also have tried different shapes of the maps. We first put the hippos in a round pool. We then realize that because there is a 360 degree of freedom for the hippos to move around, sometimes it might be too tricky for the hippos' pathfinding behaviors. 
+We then put hippos inside a square pool and re-trained them. Playtesters find it too easy and less dynamic of hippo's behaviors. So finally, we decide to put them back to a smaller round pool with a longer training time to help hippos identify the different elements in the environment.
+
+### Rock
+In the adventure mode, we preset some rocks inside the scene and also give freedom of players to put more rocks inside the scene.
+
+
+
 ## Player intervention
