@@ -20,7 +20,7 @@ Our design sprints went through iterative stages from pre-production to producti
 
 During ideation stage, we researched the potential applications of enhancing the relationship and interaction and came up with six ideas.
 
-![6 ideas](img/6ideas.png)
+![6 ideas](https://drive.google.com/file/d/1Qz3m-g-vmVz7XOXSTzWz7rrrbhJBCpZW/view?usp=sharing)
 
 ---
 
