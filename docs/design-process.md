@@ -80,8 +80,7 @@ We set up a scenario of Imagining a jungle world where you and your friend are r
 
 - To mimic the complexity of player behavior, the PlayerAI is constructed with variables in Movement and Communication based on the game mechanic. Then, by adjusting the parameters for example vision, reaction time, expertise, we generate 3 types of Preference as the input source of RL system.
 
-
-(https://docs.google.com/document/d/1B3o1PSnI4Q-JMemKxr71XEj3zGQ49tZjKVkPRFIInfo/edit?usp=sharing "View Full Documentation")
+[View Full Documentation](https://docs.google.com/document/d/1B3o1PSnI4Q-JMemKxr71XEj3zGQ49tZjKVkPRFIInfo/edit?usp=sharing)
 
 ### Penguin demo
 
