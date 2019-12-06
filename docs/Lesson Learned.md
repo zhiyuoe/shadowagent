@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Discussion
+title: Lesson Learned
 nav_order: 8
 ---
 
