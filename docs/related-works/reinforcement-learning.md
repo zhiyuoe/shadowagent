@@ -15,7 +15,7 @@ Originally invented by a CS professor, reinforcement learning has shown a great 
 {:toc}
 
 
-Reinforcement learning (RL) is a relatively new machine learning method which learns the best actions based on reward or punishment in an environment. 
+Reinforcement learning (RL) is a relatively new machine learning method that learns the best actions based on reward or punishment in an environment.
 [https://en.wikipedia.org/wiki/Reinforcement_learning](https://en.wikipedia.org/wiki/Reinforcement_learning)<br />
 
 ---
