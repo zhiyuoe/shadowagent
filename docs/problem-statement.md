@@ -36,5 +36,5 @@ In short, the conflict between reinforcement learning and designing a delightful
 
 ---
 
-## Opportunites
+## Opportunities
 Our team uses the Unity Machine Learning Agents Toolkit (ML-Agents) to explore potential opportunities for developing game with reinforcement learning. ML-Agents is an open-source Unity plugin that enables games and simulations to serve as environments for training intelligent agents.
