@@ -149,6 +149,7 @@ Crocodile speed: 1.5
 #### Observation
 At first, the crocodile was able to eat all hippos.
 However, towards the end of the training, the hippos learned to game the system. They would gather around the crocodile so they can keep saving each other and getting the big reward.
+(这里需要一个iteration1)
 
 ---
 
@@ -191,6 +192,7 @@ Crocodile Freeze Time
 #### Observation
 The hippo would run away from crocodiles when approaching. It will seek food in safe areas(further from crocodile). At some point, they would hide in the corner of the island to hide from the crocodile. They will still try to go out for fish but seem pretty reluctant.
 The helping mechanism is rarely triggered.
+(这里需要一个iteration2)
 
 ---
 
@@ -225,6 +227,7 @@ Crocodile Freeze Time
 
 #### Observation
 Different from the previous training, we try to increase the rewards by saving the other hippos as well as giving more punishment while being bitten by the crocodile. We want to see whether hippos will tend to help the hippos more or to hide from the crocodiles. The results show that even though sometimes hippos are hiding from the crocodile, hipps tend to get around the crocodile and abuse it more. Because the positions of different animals are randomly generated, when 2 out of 3 hippos were eaten by the crocodile at the beginning, the last hippo will not last long. 
+(这里需要一个iteration3)
 
 ---
 
@@ -259,6 +262,7 @@ Crocodile Freeze Time
 
 #### Observation
 We want to see what decision the hippo will make when the rewards of eating a fish are exactly the same as saving a hippo. However, we found out that if this is the case, the hippo will not help with each other anymore. They are more focused on self-saving, hiding from the crocodile, and running away from the crocodile. This training shows the selfishness of the hippos, and the result is not desirable.
+(这里需要一个iteration4)
 
 ---
 
@@ -304,4 +308,7 @@ When a hippo is bitten, it is more likely to have a nearby hippo help it out. If
 If they are gathered in a corner, they would be more likely to temporarily "abuse" the crocodile(as in, the go in circles to keep gathering rewards) many of the time caused by one of the hippos being stuck in the environment's corner. But if they end up in more open spaces, they would stop the abuse and start to flee.
 
 The start position between the hippos and the environment would affect their decisions and behaviors.
+(这里需要一个iteration5: trained in old map)
 
+However, after we trained the hippos in the new map, the collider issue doesn't exist any more.
+(这里需要一个iteration5: trained in new map)
