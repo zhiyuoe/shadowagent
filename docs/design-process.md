@@ -62,7 +62,6 @@ The player uses fish to attract bad hippos to get through the river. There are t
 #### Lesson learned 
 - Keep designing more elements into the current scene until it reaches its limit. When the environment is too chaotic for the player to control.
 
----
 
 ### Chicken demo
 
