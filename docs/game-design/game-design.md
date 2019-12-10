@@ -129,18 +129,22 @@ The player can add drag and drop objects to add to the environment system direct
 We expect players to experiment with different strategies to help the hippo to eat fish while avoiding the crocodiles and try to figure out how this dynamic relationship system works.
 
 ### Group of hippos abusing the crocodile
+![image (7)](https://user-images.githubusercontent.com/58717137/70496834-f6388480-1ac5-11ea-9850-0b99c5e98187.png)
 
 ---
 
 ### Trap the crocodile with rocks
+![image (8)](https://user-images.githubusercontent.com/58717137/70496869-18320700-1ac6-11ea-85b6-b01641d13764.png)
 
 ---
 
 ### Send over hippos to rescue their friend
+![image (9)](https://user-images.githubusercontent.com/58717137/70496885-25e78c80-1ac6-11ea-9ca1-53607ee10d8b.png)
 
 ---
 
 ### Use fish to guide way for hippos
+![image (10)](https://user-images.githubusercontent.com/58717137/70496899-339d1200-1ac6-11ea-86e4-0ce198fff983.png)
 
 ---
 
