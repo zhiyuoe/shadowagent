@@ -1,14 +1,18 @@
 ---
 layout: default
-title: Game design
+title: Game Design
 nav_order: 5
-has_children: true
-permalink: docs/game-design
 ---
 
-# Game design
+# Game Design
+{: .no_toc }
 
 Hippo Spring is a sandbox game that simulates a set of natural behaviors and chain relationships commonly found among animals and predators. By using player intervention to interrupt and change the environment states, this interactive environment brings unexpected results which surprise the player in a good way.
+{: .fs-6 .fw-300 }
+
+
+1. TOC
+{:toc}
 
 ---
 
