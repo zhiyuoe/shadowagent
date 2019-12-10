@@ -28,7 +28,7 @@ When we only have selfish hippos inside the scene, players find hippos indiffere
 
 
 ### Balanced hippos
-We then trained a balanced brain for the hippos. With this brain, sometimes hippos help each other from the crocodile and swim around the crocodile together. Sometimes they care about the fish and not help each other. Players find it less interesting to observe because they could not merely control the behaviors of the hippos at all. Even though they put fish next to the hippos, sometimes hippos each the fish and sometimes they don't. 
+We then trained a balanced brain for the hippos. With this brain, sometimes hippos help each other from the crocodile and swim around the crocodile together. Sometimes they care about the fish and not help each other. Players find it less interesting to observe because they could not merely control the behaviors of the hippos at all. Even though they put fish next to the hippos, sometimes hippos eat the fish and sometimes they don't. 
 
 
 ---
