@@ -15,7 +15,9 @@ Designing and developing games with reinforcement learning can be exciting and u
 
 1. TOC
 {:toc}
+
 ---
+
 ## Learnings<br/>
 
 ### Break up complexity<br/> 
