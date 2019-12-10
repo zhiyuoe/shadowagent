@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Design process
+title: Design Process
 nav_order: 4
 ---
 
-# Design process
+# Design Process
 {: .no_toc }
 
 Our design sprints went through iterative stages from pre-production to production.
@@ -18,7 +18,7 @@ Our design sprints went through iterative stages from pre-production to producti
 
 ## Ideation
 
-During ideation stage, we researched the potential applications of enhancing the relationship and interaction and came up with six ideas.<br/>
+During the ideation stage, we researched the potential applications of enhancing the relationship and interaction and came up with six ideas.<br/>
 ![capture 12345](https://user-images.githubusercontent.com/58717137/70496209-ab1d7200-1ac3-11ea-8f94-3df9d29021fc.PNG)
 
 
@@ -26,7 +26,7 @@ During ideation stage, we researched the potential applications of enhancing the
 
 ## Tech exploration
 
-After learning the concept of RL, we trained the board to balance the ball, first we could see the amount of time we spent to train the model will really make a difference of the performance. Also, If we trained at the smaller board and put it at the bigger board environment, the ball tempts to not fall off since it is restricted when it trains. From this, we learned that environment is also an important factor in RL.<br/>
+After learning the concept of RL, we trained the board to balance the ball. First, we could see the amount of time we spent to train the model will really make a difference in the performance. Also, If we trained at the smaller board and put it at the wider board environment, the ball tempts not to fall off since it is restricted when it trains. From this, we learned that the environment is also an important factor in RL.<br/>
 [![techexploration](https://user-images.githubusercontent.com/58717137/70496564-e2405300-1ac4-11ea-998a-931391e6dd5e.jpg)](https://www.youtube.com/watch?v=11CwRzjL_c0&feature=youtu.be)<br/>
 (Click on the video)
 
@@ -35,7 +35,7 @@ After learning the concept of RL, we trained the board to balance the ball, firs
 
 ## Research findings
 
-- RL as an environment is good for observing obvious changes effectively.
+- RL, as an environment, is good for observing obvious changes effectively.
 - The competing relationship between RL agents and players gets easily fall into the Good-old-fashioned-AI's application. 
 
 ---
@@ -43,7 +43,7 @@ After learning the concept of RL, we trained the board to balance the ball, firs
 ## Design direction
 
 - A coop game where RL agent and the player influence each other with a purpose.
-- RL and player collaborate to solve puzzles together.
+- RL and players collaborate to solve puzzles together.
 
 ---
 
@@ -60,7 +60,7 @@ After learning the concept of RL, we trained the board to balance the ball, firs
 The player uses fish to attract bad hippos to get through the river. There are two different kinds of hippos in our current stage. Good hippos are the peaceful ones that just stay stationary inside the scene; bad hippos are the panic ones that want to eat the fish.
 
 #### Lesson learned 
-- Keep designing more elements into the current scene until it reaches its limit. when the environment is too chaotic for the player to control.
+- Keep designing more elements into the current scene until it reaches its limit. When the environment is too chaotic for the player to control.
 
 ---
 
@@ -71,7 +71,7 @@ The player uses fish to attract bad hippos to get through the river. There are t
 `Asymmetrical information and communication`
 
 #### Design
-We set up a scenario of Imagining a jungle world where you and your friend are roleplaying two birds. You two have to go through a series of stairs to win. However, both of you can only see your partner’s stairs ahead, not yourselves’. You must take turns to jump and rely on your partner to give instructions. You two are allowed to communicate through limited yet creative methods like sending emojis and making sounds. 
+We set up a scenario of Imagining a jungle world where you and your friend are roleplaying two birds. You two have to go through a series of stairs to win. However, both of you can only see your partner's stairs ahead, not yourselves'. You must take turns to jump and rely on your partner to give instructions. You two are allowed to communicate through limited yet creative methods like sending emojis and making sounds. 
 
 
 #### Lesson learned 
@@ -88,12 +88,12 @@ We set up a scenario of Imagining a jungle world where you and your friend are r
 `Pathfinding`
 
 #### Design
-Thie demo is about the parent penguin is trying to find the fish and to feed its baby. What if we are the mother nature and we are trying to stop the adult penguin from finding the fish and feeding the child, without killing them. 
+Thie demo is about the parent penguin is trying to find the fish and to feed its baby. What if we are the mother nature, and we are trying to stop the adult penguin from finding the fish and feeding the child, without killing them. 
 
 #### Lesson learned 
-- Since the goals of each individuals are single and direct, it is not obvious how RL can play an important role in the gameplay.
+- Since the goals of each individual are single and direct, it is not obvious how RL can play an important role in the gameplay.
 
-- Adding complexity to the scen will help distinguish RL from the hard-coding NPC.
+- Adding complexity to the scene will help distinguish RL from the hard-coding NPC.
 
 
 ---
@@ -109,13 +109,13 @@ Thie demo is about the parent penguin is trying to find the fish and to feed its
 #### Design
 - Add multiple goals to the hippo, and have the hippo physical structure changes. 
 
-- Switch agent's goals during the gameplay or there are other agents with totally different goals.
+- Switch the agent's goals during the gameplay, or there are other agents with totally different goals.
 
 #### Lesson learned
 
-- During implementing phase, we encountered some questions like, when the system becomes complicated, it starts to become hard to tune the parameters in order to get the results we want for the RL agent. Also, once there are a new component add into the environment, the system need to be retrained.
+- During the implementing phase, we encountered some questions like, when the system becomes complicated, it starts to become hard to tune the parameters in order to get the results we want for the RL agent. Also, once there is a new component added to the environment, the system needs to be retrained.
 
-- When individual behaviors' layers becomes more and more, it was not obvious how the behaviors were influenced by the parameters in the scene. It was also too chaotic to observe.
+- When individual behaviors' layers become more and more, it was not obvious how the behaviors were influenced by the parameters in the scene. It was also too chaotic to observe.
 
 - A new direction - establish a triangular relationship to create a dynamic system.
 
@@ -137,7 +137,7 @@ This idea is inspired by the real-life cat’s social hierarchy. Cats choose foo
 We found out that even though sometimes the hippo has made a decision of where to go, the hippo has trouble to reach to its destination because of pathfinding. We tried to find a way to show the decisions that RL agents have made more clearly. This Cat Hierarchy game could solve this struggle.
 
 #### Lesson learned
-- We only have two weeks left before the soft opening and it take s along time to tune the parameters and train the RL agents, we decided to compromise our ideas into our current hippo demo.
+- We only have two weeks left before the soft opening, and it take s along time to tune the parameters and train the RL agents, we decided to compromise our ideas into our current hippo demo.
 
 ---
 
@@ -150,7 +150,7 @@ We found out that even though sometimes the hippo has made a decision of where t
 
 #### Challenges
 
-Due to the limited time left, and in order to get the obvious results effectively, we reverted back to the previous layer that hippos only eat one food. With only one kind of food, players can observe the hippo’s behavior more clearly. Then, we add one more RL agent, the Crocodile, to eat the hippo.
+Due to the limited time left, and in order to get the obvious results effectively, we reverted back to the previous layer that hippos only eat one food. With only one kind of food, players can observe the hippo's behavior more clearly. Then, we add one more RL agent, the Crocodile, to eat the hippo.
 
 #### Design
 
