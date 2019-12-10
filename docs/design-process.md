@@ -18,16 +18,17 @@ Our design sprints went through iterative stages from pre-production to producti
 
 ## Ideation
 
-During ideation stage, we researched the potential applications of enhancing the relationship and interaction and came up with six ideas.
+During ideation stage, we researched the potential applications of enhancing the relationship and interaction and came up with six ideas.<br/>
+![capture 12345](https://user-images.githubusercontent.com/58717137/70496209-ab1d7200-1ac3-11ea-8f94-3df9d29021fc.PNG)
 
-![6 ideas](https://drive.google.com/file/d/1Qz3m-g-vmVz7XOXSTzWz7rrrbhJBCpZW/view?usp=sharing)
 
 ---
 
 ## Tech exploration
 
-After learning the concept of RL, we trained the board to balance the ball, first we could see the amount of time we spent to train the model will really make a difference of the performance. Also, If we trained at the smaller board and put it at the bigger board environment, the ball tempts to not fall off since it is restricted when it trains. From this, we learned that environment is also an important factor in RL.
-[![6 Game Ideas]https://img.youtube.com/vi/11CwRzjL_c0/0.jpg](https://youtu.be/11CwRzjL_c0 "6 Game Ideas")
+After learning the concept of RL, we trained the board to balance the ball, first we could see the amount of time we spent to train the model will really make a difference of the performance. Also, If we trained at the smaller board and put it at the bigger board environment, the ball tempts to not fall off since it is restricted when it trains. From this, we learned that environment is also an important factor in RL.<br/>
+![techexploration](https://user-images.githubusercontent.com/58717137/70496564-e2405300-1ac4-11ea-998a-931391e6dd5e.jpg)](https://www.youtube.com/watch?v=11CwRzjL_c0&feature=youtu.be)
+
 
 
 ---
