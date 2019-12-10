@@ -48,4 +48,4 @@ In the adventure mode, we preset some rocks inside the scene and also give freed
 
 ---
 ## Player intervention
-The game is designed and iterated to provide enough intervention for the players. Inside the final build, players could intervene the environment and RL agents with rocks, fishes, and more hippos. They can change and observe the behaviors of RL agents not only by putting more rocks inside the scene to change the environment, as well as by putting more fishes and hippos to manipulate the ecocystsem.
+The game is designed and iterated to provide enough intervention for the players. Inside the final build, players could intervene the environment and RL agents with rocks, fish, and more hippos. They can change and observe the behaviors of RL agents not only by putting more rocks inside the scene to change the environment, as well as by putting more fishes and hippos to manipulate the ecosystsem.
