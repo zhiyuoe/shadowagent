@@ -35,8 +35,8 @@ Giraffe <br />
 
 ### Reference
 Rocks <br />
-![Rock](https://user-images.githubusercontent.com/58717137/70494099-dce00a00-1abe-11ea-82cf-a04b4b46381a.PNG)
-Fish
+![Rock](https://user-images.githubusercontent.com/58717137/70494099-dce00a00-1abe-11ea-82cf-a04b4b46381a.PNG)<br />
+Fish<br />
 Google Emoji
 
 ---
