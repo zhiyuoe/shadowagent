@@ -17,7 +17,7 @@ How to evoke the fun with experience design? How do we define delightful experie
 ---
 
 ## Surprise in a good way
-A good experience of game is when players start the game, they begin to get familiar with the gameplay and become confident of the scenario and environment. Then they will encounter some challenges and conquer them. And in between, there will be a surprise or bigger challenge that the player may encounter some uncomfort and frustration, however, they will learn through the process and get more comfortable with the surprise again. So there is actually a learning process in player's experience.
+A good experience of game mentioned from our client is that when players start the game, they begin to get familiar with the gameplay and become confident of the scenario and environment. Then they will encounter some challenges and conquer them. And in between, there will be a surprise or bigger challenge that the player may encounter some uncomfort and frustration, however, they will learn through the process and get more comfortable with the surprise again. So there is actually a learning process in player's experience.
 
 ---
 
