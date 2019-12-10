@@ -27,10 +27,8 @@ During ideation stage, we researched the potential applications of enhancing the
 ## Tech exploration
 
 After learning the concept of RL, we trained the board to balance the ball, first we could see the amount of time we spent to train the model will really make a difference of the performance. Also, If we trained at the smaller board and put it at the bigger board environment, the ball tempts to not fall off since it is restricted when it trains. From this, we learned that environment is also an important factor in RL.
-https://youtu.be/
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=11CwRzjL_c0
-" target="_blank"><img src="http://img.youtube.com/vi/11CwRzjL_c0/0.jpg" 
-alt="tech demo" width="240" height="180" border="10" /></a>
+[![6 Game Ideas]https://img.youtube.com/vi/11CwRzjL_c0/0.jpg](https://youtu.be/11CwRzjL_c0 "6 Game Ideas")
+
 
 ---
 
