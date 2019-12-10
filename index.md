@@ -17,7 +17,7 @@ Exploring reinforcement learning agents in game experience
 
 ### Introduction
 
-Baby Hippo Spring is an experimental game exploring the application of reinforcement learning (RL) in non-player characters (NPC). Challenged with the uncertainty and unpredictability of results from RL training, we aim make use of this essence of RL to build a delightful game experience for players.
+Baby Hippo Spring is an experimental game exploring the application of reinforcement learning (RL) in non-player characters (NPC). Challenged with the uncertainty and unpredictability of results from RL training, we aim to make use of this essence of RL to build a delightful game experience for players.
 
 In this documentation, you will learn how we cracked the challenges of reinforcement learning in games, where our inspirations came from, our design process, experiments, findings, and lessons learned.
 
@@ -31,13 +31,11 @@ We are Team [Shadow Agent](https://www.etc.cmu.edu/projects/shadow-agent/#blog),
 ---
 
 ### Downloads
-[Mac](#)
 
 [Windows](#)
 
 [Google Play](#)
 
-[AppStore](#)
 
 ---
 
