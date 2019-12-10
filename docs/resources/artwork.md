@@ -17,21 +17,23 @@ Crafting the aesthetic of the game
 ### Environment
 Landscape
 Water
-
+![lilyleaf](https://user-images.githubusercontent.com/58717137/70494331-c4242400-1abf-11ea-9a42-929f573e0cb1.PNG)
 ---
 
 ### Character
 Hippo
-![](images/babyhippo.PNG)
+![babyhippo](https://user-images.githubusercontent.com/58717137/70494365-e61da680-1abf-11ea-8fc4-3d773a56bc4d.PNG)
+
 Crocodile
-![](images/Crocodile.PNG)
+![Crocodile](https://user-images.githubusercontent.com/58717137/70494162-14e74d00-1abf-11ea-8cbd-a1007f0c5a09.PNG)
+
 Giraffe
-![](images/Giraffe.PNG)
+![Giraffe](https://user-images.githubusercontent.com/58717137/70494310-af479080-1abf-11ea-8c7b-b987cbadc0c9.PNG)
 ---
 
 ### Reference
 Rocks
-![](images/Rock.PNG) 
+![Rock](https://user-images.githubusercontent.com/58717137/70494099-dce00a00-1abe-11ea-82cf-a04b4b46381a.PNG)
 Fish
 Google Emoji
 
