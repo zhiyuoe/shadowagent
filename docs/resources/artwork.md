@@ -22,13 +22,16 @@ Water
 
 ### Character
 Hippo
+![](images/babyhippo.PNG)
 Crocodile
+![](images/Crocodile.PNG)
 Giraffe
-
+![](images/Giraffe.PNG)
 ---
 
 ### Reference
 Rocks
+![](images/Rock.PNG) 
 Fish
 Google Emoji
 
@@ -42,6 +45,7 @@ Crocodile has 4 animation clips: Idle, Eat, Happy, Struggle
 
 ### VFX
 Water splash
+Warning sign
 Crocodile dizzy
 
 
