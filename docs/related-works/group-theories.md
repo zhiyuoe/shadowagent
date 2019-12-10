@@ -15,6 +15,7 @@ Can algorithms simulates the behavior patterns existing in the nature?
 {:toc}
 
 ---
+## Hamilton's rule
 [Hamilton's rule](https://en.wikipedia.org/wiki/Inclusive_fitness)
 In the context of sociobiology, Hamilton proposed that inclusive fitness offers a mechanism for the evolution of altruism. He claimed that this leads natural selection to favor organisms that behave in ways that correlate with maximizing their inclusive fitness. If a gene (or gene complex) promoting altruistic behavior has copies of itself in others, helping those others survive ensures that the genes will be passed on.
 Hamilton's rule describes mathematically whether or not a gene for altruistic behavior will spread in a population:
