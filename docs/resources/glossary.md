@@ -9,7 +9,7 @@ parent: Resources
 # Glossary
 {: .no_toc }
 
-A list of words we use when describing concepts in the context of reinforcement learning and game design, and how they mirrors each other.
+A list of words we use when describing concepts in the context of reinforcement learning and game design, and how they mirror each other.
 {: .fs-6 .fw-300 }
 
 
