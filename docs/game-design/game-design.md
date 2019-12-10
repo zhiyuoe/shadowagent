@@ -111,7 +111,7 @@ The interaction between players and the environment system is the core that make
 ---
 
 ### Drag and drop
-The player can add drag and drop objects to add to the environment system directly in real-time. Combining the pathfinding behaviors of the agents, these actions affects not only the number of obejcts, but also the states, goals, and decision-making results of the agent. Below are possible results happening to the system
+The player can add drag and drop objects to add to the environment system directly in real-time. Combining the pathfinding behaviors of the agents, these actions affects not only the number of objects, but also the states, goals, and decision-making results of the agent. Below are possible results happening to the system
  
  
 | Actions               | Influences                        | Potential results                                    |
