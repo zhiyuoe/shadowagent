@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lesson Learned
+title: Lessons Learned
 nav_order: 8
 ---
 
