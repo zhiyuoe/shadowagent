@@ -14,32 +14,15 @@ Originally invented by a CS professor, reinforcement learning has shown a great 
 1. TOC
 {:toc}
 
+
+Reinforcement learning (RL) is a relatively new machine learning method which learns the best actions based on reward or punishment in an environment. 
+[https://en.wikipedia.org/wiki/Reinforcement_learning](https://en.wikipedia.org/wiki/Reinforcement_learning)<br />
+
 ---
 
-## Reinforcement learning
-### Status quo
+### Applications 
+[https://towardsdatascience.com/applications-of-reinforcement-learning-in-real-world-1a94955bcd12](https://towardsdatascience.com/applications-of-reinforcement-learning-in-real-world-1a94955bcd12)<br />
 ### Game applications
+[https://deepmind.com/blog/article/alphago-zero-starting-scratch](https://deepmind.com/blog/article/alphago-zero-starting-scratch)
 
 ---
-
-## Agent
-
----
-
-## Environment
-
----
-
-## Rewards
-
----
-
-## Punishment
-
----
-
-## Strategies
-
----
-
-## Goals
