@@ -8,7 +8,7 @@ parent: Related works
 # Reinforcement Learning
 {: .no_toc }
 
-Originally invented by a CS professor, reinforcement learning has shown a great potentional in games.
+Originally invented by a CS professor, reinforcement learning has shown great potential in games.
 {: .fs-6 .fw-300 }
 
 1. TOC
