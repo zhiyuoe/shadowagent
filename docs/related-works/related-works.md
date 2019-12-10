@@ -19,10 +19,7 @@ Where our inspirations came from
 
 
 ## Reinforcement Learning
-{: .no_toc }
-
 Originally invented by a CS professor, reinforcement learning has shown great potential in games.
-{: .fs-6 .fw-300 }
 
 
 Reinforcement learning (RL) is a relatively new machine learning method that learns the best actions based on reward or punishment in an environment.
