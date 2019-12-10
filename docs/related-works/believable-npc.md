@@ -8,8 +8,7 @@ parent: Related works
 # Believable NPC
 {: .no_toc }
 
-
-In game, NPCs have been widely applied to facilitate player's experience. We look at believability, behaviors, characteristics and interactions of the characters.
+In the game, NPCs have been widely applied to facilitate the player's experience. We look at believability, behaviors, characteristics, and interactions of the characters. 
 {: .fs-6 .fw-300 }
 
 1. TOC
