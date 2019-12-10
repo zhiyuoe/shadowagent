@@ -29,12 +29,8 @@ Players experiment with different strategies to help the hippo to eat fish while
 ### Sandbox Simulation
 Hippo Spring simulates the food chain relationships using Fish - Hippo - Crocodile in the water. It also stimulates the resource management dilemma in the conflict between individual goals and group rewards.
 
----
-
 ### Player intervention
 In this simplified ecosystem, a player changes the environment states by adding a variety of objects. Based on their observation of the rules, they decide what purpose, how much, when, and where to put in. Their goal is to maximize the hippos alive, protect them away from being eaten by predators.
-
----
 
 ### 2 Modes
 In order to showcase all the design and research results, the game features Adventure mode and Sandbox mode.
@@ -53,19 +49,13 @@ Sandbox mode is an experimental space where players can unleash their creativity
 
 The mutually influenced characters co-creates a dynamic environment.
 
----
-
 ### Fish
 
 Fish is the food for the hippo. It serves as the most basic parameters for players to control and influence the environment. 
 
----
-
 ### Hippo (agent)
 
 Hippos are trained pathfinding agents. Their goal is to find and eat fish and hide away from the crocodile. Sometimes, they will help other hippos in danger against the crocodile.
-
----
 
 ### Dynamic hippo states (agents with different brains)
 
@@ -84,21 +74,15 @@ Hippos have three states: Normal, Selfish, and Helpful.
 
 `<Helpful state>` were trained to be more likely to help a hippo friend in danger and ignore the food. It represents the altruistic characteristics of group society.
 
----
-
 ### Hippo-fish ratio
 
 Inspired by the demand-supply relationships often seen in the resource management scenario, the dynamic hippo states were designed to be controlled together by the amount of hippo and the amount of fish. For example, when fish resources were sufficient for the number of hippos in the spring, hippos change to `<Helpful state>.`
 
 We set up thresholds of ratio as the boundaries between Normal, Selfish, and Helpful states. As the player drags more objects into the spring, or as the fish gets eaten by the hippos, or as the hippos get eaten by the crocodile, they can observe the change happening to the hippos. 
 
----
-
 ### Crocodile (agent)
 
 Crocodile is a trained pathfinding agent and the predator of the hippo. It chases and eats hippo in the scene. Adding the crocodile into the game makes hippos' goal diverse. It can scare away the hippo chasing food, as well as distracting hippos from choosing between helping others or ignoring them.
-
----
 
 ### Zookeeper
 Zookeeper is the help-asker in the game. It serves as an initial prompt to invite the player into the game with a clear motivation and strong empathy. 
@@ -107,8 +91,6 @@ Zookeeper is the help-asker in the game. It serves as an initial prompt to invit
 
 ## Interaction
 The interaction between players and the environment system is the core that makes this game playable and playful.
-
----
 
 ### Drag and drop
 The player can add drag and drop objects to add to the environment system directly in real-time. Combining the pathfinding behaviors of the agents, these actions affects not only the number of objects, but also the states, goals, and decision-making results of the agent. Below are possible results happening to the system
