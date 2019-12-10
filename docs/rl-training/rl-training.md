@@ -148,8 +148,9 @@ Crocodile speed: 1.5
 
 #### Observation
 At first, the crocodile was able to eat all hippos.
-However, towards the end of the training, the hippos learned to game the system. They would gather around the crocodile so they can keep saving each other and getting the big reward.
-(这里需要一个iteration1)
+However, towards the end of the training, the hippos learned to game the system. They would gather around the crocodile so they can keep saving each other and getting the big reward.<br/>
+[![QeRDRVmtvhQhd](https://user-images.githubusercontent.com/58717137/70503002-35230600-1ad7-11ea-9bd7-2286e67ed009.jpg)](https://www.youtube.com/watch?v=QeRDRVmtvhQ&feature=youtu.be)<br/>
+(Click on the video)
 
 ---
 
@@ -191,8 +192,9 @@ Crocodile Freeze Time
 
 #### Observation
 The hippo would run away from crocodiles when approaching. It will seek food in safe areas(further from crocodile). At some point, they would hide in the corner of the island to hide from the crocodile. They will still try to go out for fish but seem pretty reluctant.
-The helping mechanism is rarely triggered.
-(这里需要一个iteration2)
+The helping mechanism is rarely triggered.<br/>
+[![uZYv4O7Ahichd](https://user-images.githubusercontent.com/58717137/70503122-9c40ba80-1ad7-11ea-8a3f-2c8719daf8a6.jpg)](https://www.youtube.com/watch?v=uZYv4O7Ahic&feature=youtu.be)<br/>
+(Click on the video)
 
 ---
 
@@ -260,8 +262,9 @@ Crocodile Freeze Time
 45mins
 
 #### Observation
-We want to see what decision the hippo will make when the rewards of eating a fish are exactly the same as saving a hippo. However, we found out that if this is the case, the hippo will not help with each other anymore. They are more focused on self-saving, hiding from the crocodile, and running away from the crocodile. This training shows the selfishness of the hippos, and the result is not desirable.
-(这里需要一个iteration4)
+We want to see what decision the hippo will make when the rewards of eating a fish are exactly the same as saving a hippo. However, we found out that if this is the case, the hippo will not help with each other anymore. They are more focused on self-saving, hiding from the crocodile, and running away from the crocodile. This training shows the selfishness of the hippos, and the result is not desirable.<br/>
+[![LpRQM7NkOcMhd](https://user-images.githubusercontent.com/58717137/70503282-ed50ae80-1ad7-11ea-9dcc-ccc6c9e75e9e.jpg)](https://www.youtube.com/watch?v=LpRQM7NkOcM&feature=youtu.be)<br/>
+(Click on the video)
 
 ---
 
@@ -306,8 +309,12 @@ They would also run away from the crocodile when it is chasing them and hide beh
 When a hippo is bitten, it is more likely to have a nearby hippo help it out. If the other hippos are too far away, they tend not to choose to approach and attempt to help.
 If they are gathered in a corner, they would be more likely to temporarily "abuse" the crocodile(as in, the go in circles to keep gathering rewards) many of the time caused by one of the hippos being stuck in the environment's corner. But if they end up in more open spaces, they would stop the abuse and start to flee.
 
-The start position between the hippos and the environment would affect their decisions and behaviors.
-(这里需要一个iteration5: trained in old map)
+The start position between the hippos and the environment would affect their decisions and behaviors.<br/>
+Trained in old map<br/>
+[![Ju3O3gYAKT4hd](https://user-images.githubusercontent.com/58717137/70503443-43255680-1ad8-11ea-9d6c-e125e1e1a804.jpg)](https://www.youtube.com/watch?v=Ju3O3gYAKT4&feature=youtu.be)<br/>
+(Click on the video)
 
-However, after we trained the hippos in the new map, the collider issue doesn't exist any more.
-(这里需要一个iteration5: trained in new map)
+However, after we trained the hippos in the new map, the collider issue doesn't exist any more.<br/>
+Trained in new map<br/>
+[![3fmvjX2ip7ghd](https://user-images.githubusercontent.com/58717137/70503609-9c8d8580-1ad8-11ea-8cb2-65215d846aee.jpg)](https://www.youtube.com/watch?v=3fmvjX2ip7g&feature=youtu.be)<br/>
+(Click on the video)
