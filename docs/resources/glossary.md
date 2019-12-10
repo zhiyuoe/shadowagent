@@ -22,7 +22,7 @@ Agent
 
 Brain
 
-Enivronment
+Environment
 
 Punishment
 
