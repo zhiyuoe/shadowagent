@@ -36,11 +36,12 @@ Player would probably get confused of agent's behavior since it's hard to dirctl
 
 ### Standard game design process<br/> 
 A standard game design process looks like the image underneath that you have the uncertainty in the beginning, and you define the goals and problems clearer and clearer until the end of the production stage.<br/>
-![traditional design](https://user-images.githubusercontent.com/58717137/70498197-79f47000-1aca-11ea-8cdc-ce1e058f7f39.PNG)<br/>
+<img src = "https://user-images.githubusercontent.com/58717137/70498197-79f47000-1aca-11ea-8cdc-ce1e058f7f39.PNG" width= "700">
+
 
 ### Our design process<br/>
 Due to the characteristics of unpredictability of reinforcement learning. Our projects seem something more like this, that we have the uncertainty of designing the game all the time, and along the way we pivot to a lot of different directions and try out a bunch of stuff that could work with RL.<br/>
-![Untitled-1](https://user-images.githubusercontent.com/58717137/70499189-744c5980-1acd-11ea-8838-71d3256bfbc0.png)
+<img src = "https://user-images.githubusercontent.com/58717137/70499189-744c5980-1acd-11ea-8838-71d3256bfbc0.png" width= "520">
 
 
 
