@@ -10,7 +10,6 @@ nav_order: 3
 
 
 Where our inspirations came from
-
 {: .fs-6 .fw-300 }
 
 
