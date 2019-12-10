@@ -7,28 +7,15 @@ permalink: docs/game-design
 ---
 
 # Game design
-{: .no_toc }
 
 Hippo Spring is a sandbox game that simulates a set of natural behaviors and chain relationships commonly found among animals and predators. By using player intervention to interrupt and change the environment states, this interactive environment brings unexpected results which surprise the player in a good way.
-{: .fs-6 .fw-300 }
-
-
-1. TOC
-{:toc}
 
 ---
 
 ## Story
-{: .no_toc }
-
 In this game, a crocodile at large is invading the peaceful baby hippo spring. The hippos are in danger of being eaten by the crocodile. Meanwhile, the hippos are always chasing after food to keep alive.
 
 The zookeeper looking for the crocodile is on his way to the spring to rescue the hippos. He has 3 mins left to come. So he asks the player to help protect the hippos for a while.
-{: .fs-6 .fw-300 }
-
-
-1. TOC
-{:toc}
 
 ---
  
@@ -59,14 +46,9 @@ Sandbox mode is an experimental space where players can unleash their creativity
 ---
 
 ## Characters and Relationships
-{: .no_toc }
 
 The muturally influenced characters co-creates a dynamic environment.
-{: .fs-6 .fw-300 }
 
-
-1. TOC
-{:toc}
 ---
 
 ### Fish
@@ -119,10 +101,24 @@ Zookeeper is the help-asker in the game. It serves as an initial prompt to invit
 
 ---
 
+## Interaction
+The interaction between players and the environment system is the core that makes this game playable and playful.
 
+---
+
+### Drag and drop
+The player can add drag and drop objects to add to the environment system directly in real-time. Combining the pathfinding behaviors of the agents, these actions affects not only the number of obejcts, but also the states, goals, and decision-making results of the agent. Below are possible results happening to the system
  
  
- 
+| Actions               | Influences                        | Potential results                                    |
+|:----------------------|:----------------------------------|:-----------------------------------------------------|
+| Drag and drop fish    | Affecting hippo-fish ratio        | Change the hippo states                              |
+|                       | Attracts hippos to come           | Change agents' moving directions, decisions and goals|
+| Drag and drop a hippo | Affecting hippo-fish ratio        | Change the hippo states                              |
+|                       | Bring hippo close to crocodile    | Change agents' moving directions, decisions and goals|
+| Drag and drop a rock  | Change the path layout            | Change agents' pathfinding movements                 |
+
+---
  
 
 
