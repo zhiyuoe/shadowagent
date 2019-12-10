@@ -51,7 +51,7 @@ Sandbox mode is an experimental space where players can unleash their creativity
 
 ## Characters and Relationships
 
-The muturally influenced characters co-creates a dynamic environment.
+The mutually influenced characters co-creates a dynamic environment.
 
 ---
 
