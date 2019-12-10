@@ -227,7 +227,6 @@ Crocodile Freeze Time
 
 #### Observation
 Different from the previous training, we try to increase the rewards by saving the other hippos as well as giving more punishment while being bitten by the crocodile. We want to see whether hippos will tend to help the hippos more or to hide from the crocodiles. The results show that even though sometimes hippos are hiding from the crocodile, hipps tend to get around the crocodile and abuse it more. Because the positions of different animals are randomly generated, when 2 out of 3 hippos were eaten by the crocodile at the beginning, the last hippo will not last long. 
-(这里需要一个iteration3)
 
 ---
 
