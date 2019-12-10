@@ -34,7 +34,7 @@ We are Team [Shadow Agent](https://www.etc.cmu.edu/projects/shadow-agent/#blog),
 
 [Windows](https://drive.google.com/file/d/16WpFyZziRFJlgTW0VKt45_OjrxtwE_yN/view?usp=sharing)
 
-[Google Play](#)Publish in progress
+[Google Play](#) (Publish in progress)
 
 
 ---
